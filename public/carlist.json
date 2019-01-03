@@ -1,0 +1,66 @@
+[{
+    "url": "http://img3.bitautoimg.com/autoalbum/files/20150312/142/11383314232655_3927034_14.jpg",
+    "id": 1,
+    "name": "阿斯顿·马丁 Vanquish",
+    "min_price": "400",
+    "max_price": "628",
+    "hedge": "30.4%",
+    "utils": [{
+        "displacement": "5.9L 6.0L",
+        "consumption": "13.1L"
+    }],
+    "count": 1,
+    "isChecked": false
+}, {
+    "url": "http://img1.bitautoimg.com/autoalbum/files/20170320/197/20262919775872_5447876_16.jpg",
+    "id": 2,
+    "name": "法拉利 812 Superfast",
+    "min_price": "498",
+    "max_price": "539",
+    "hedge": "45.2%",
+    "utils": [{
+        "displacement": "6.5L",
+        "consumption": "15L"
+    }],
+    "count": 0,
+    "isChecked": false
+}, {
+    "url": "http://img4.bitautoimg.com/autoalbum/files/20180611/600/201806111420212021118379_6074259_16.jpg",
+    "id": 3,
+    "name": "兰博基尼 兰博基尼Aventador",
+    "min_price": "630",
+    "max_price": "700",
+    "hedge": "39.8%",
+    "utils": [{
+        "displacement": "6.5L",
+        "consumption": "16.9L-18.9L"
+    }],
+    "count": 0,
+    "isChecked": false
+}, {
+    "url": "http://img2.bitautoimg.com/autoalbum/files/20141023/099/15073509921432_3678849_16.JPG",
+    "id": 4,
+    "name": "玛莎拉蒂 玛莎拉蒂GranCabrio",
+    "min_price": "263",
+    "max_price": "303",
+    "hedge": "38.3%",
+    "utils": [{
+        "displacement": "4.7L",
+        "consumption": "14.4-14.5L"
+    }],
+    "count": 0,
+    "isChecked": false
+}, {
+    "url": "https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1531915066&di=197ff389100dca63c85537af24a26c5f&src=http://sjdf.zg-power.com/Turbo/UpImages/f308f88520a74d168ca29de015e41ea2.jpg",
+    "id": 5,
+    "name": "布加迪威龙 Bugatti Veyron",
+    "min_price": "2500",
+    "max_price": "3500",
+    "hedge": "80%",
+    "utils": [{
+        "displacement": "8.0L",
+        "consumption": "20.0L"
+    }],
+    "count": 0,
+    "isChecked": false
+}]
